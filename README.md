@@ -15,7 +15,7 @@ Methods should be strictly follows to exact output will come.
 1. Understand car Dheko user documentation
 2. unstructured to structured data - Car Dheko file
 3. Data cleaning - Data Preprocessing car Dheko
-4. Data preprocessing ML - car Dheko Machine learning
+4. Data preprocessing ML - car Dheko Machine learning, MLpart
 5. streamlit - car dheko app
 6. picture - streamlit background
 Deployment: Hosted via a cloud platform for easy access
